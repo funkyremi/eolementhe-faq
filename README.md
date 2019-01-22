@@ -8,7 +8,7 @@
 
 
 <a name="workflowEP"></a>
-# Error in the Workflow for European Parliament
+## Error in the Workflow for European Parliament
 
 The workflow is organised in order to optimise the different steps / jobs and then a fast delivery.
 
@@ -24,7 +24,8 @@ If the platform is not accessible, use the [www.eolementhe.cloud](https://www.eo
 * If the English subtitle has already been made, drop it in the file lib to launch only translations and translastions’corrections on the following workflow : 
 
 <a name="dblesubtitles"></a>
-# Two subtitles are displayed at the same time or in loop.
+
+## Two subtitles are displayed at the same time or in loop.
 
 It’s because of an overlap in time-codes : 
 
@@ -38,7 +39,8 @@ refresh the page (keys Control + F5)
 
 
 <a name="object"></a>
-# Speechmatics return a [object Object]
+
+## Speechmatics return a [object Object]
 ![Error message](resources\object.jpg)
 
 This is because the volume /var/Eolementhe is not mounted on Speechmatics vm.
